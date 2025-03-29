@@ -1,0 +1,28 @@
+.git-wiki-tools,
+.git-wiki-search,
+button.w3-bar-item.w3-button.w3-large.w3-hide-large,
+footer p small,
+.element::-webkit-scrollbar,
+#git-wiki-sidebar p,
+.page-list-title,
+.page-list {
+    display: none;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+.element {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.w3-hide-medium.w3-hide-small h1 {
+    font-size: 1.07vw;
+    text-align: center;
+}
+
+#git-wiki-mobile-header {
+    z-index: 99;
+}
