@@ -1,21 +1,12 @@
-# git-wiki-skeleton
+# Elements the Typology
+Welcome to "Elements the Typology" wiki!
+"Elements" are based on assymetrical tetrachomies from analytical psychology, which defines person's <b>Rhetorical Appeal</b> and <b>Interaction style</b>
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+<h2> Elements </h2>
+Person's main Element shows how person usually interact with others:
+<ul> <li><b> Fire </b> </li> <li> <b>Water</b> </li> <li> <b>Air</b> </li> <li> <b>Earth</b> </li>  </ul>
+<h2> Appeal </h2>
+Person's Appeal describes person appeal:
+<ul> <li><b> Thinking </b> </li> <li> <b>Loving</b> </li> <li> <b>Immutable</b> </li> <li> <b>Fatal</b> </li>  </ul>
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
-
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
-
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
-
-## The git-wiki project
-
-The git-wiki project is composed by 3 different repository:
-
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
-
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it.
-
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
-
-Version: 1.0.9
+<u>based on correspondence to the Aristotelian rhetorical appeals</u>
