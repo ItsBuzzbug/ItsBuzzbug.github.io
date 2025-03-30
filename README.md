@@ -4,7 +4,7 @@ Welcome to "Elements the Typology" wiki!
 
 <h1> Elements </h1>
 Person's main Element shows how person usually interact with others:
-<ul> <li><b> Fire </b> </li> <li> <b>Water</b> </li> <li> <b>Air</b> </li> <li> <b>Earth</b> </li>  </ul>
+<ul> <li><b> Fire </b> — order and control their subordinates to get results faster. They collect resources and direct them to the cause. </li> <li> <b>Water</b> —  support their subordinates and direct their work from behind the scenes. They praise their employees, adapt to changes, and resolve technical issues. </li> <li> <b>Air</b> — discuss different options, brainstorm, and discover new opportunities for their teams. They involve others in their work and help them come up with new ideas. </li> <li> <b>Earth</b> —  develop an action plan, plan everything down to the smallest detail, and monitor the work of others. They direct their team's efforts to achieve their goals. </li>  </ul>
 <h1> Appeal </h1>
 Person's Appeal describes person appeal:
 <ul> <li><b> Thinking </b> </li> <li> <b>Loving</b> </li> <li> <b>Immutable</b> </li> <li> <b>Fatal</b> </li>  </ul>
