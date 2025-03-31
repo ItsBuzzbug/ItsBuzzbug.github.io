@@ -54,25 +54,3 @@ Click on the sub-type name to read a page about it (CURRENTLY NOT WORKING)
 </table>
 
 
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA Compatible" content="IE=edge">
-<meta name="viewprot" content="width=device-width, initial-scale-1.0">
-<title>Comment </title>
-<style>
-  html, body {
-    height: 100%
-    width: 100%
-    display:flex;
-    justify-content:center;
-    align-item:center;
-    padding: 0;
-    margin: 0"
-    }
-</style>
-
-<body>
-  <div class="container">
-    <div class="row"></div>
-  </div>
-</body>
