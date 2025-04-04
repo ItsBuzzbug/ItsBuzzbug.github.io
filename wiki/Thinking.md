@@ -1,4 +1,4 @@
-<h1>Thinking Appeal/ Thinking Club</h1>
+<h1>Thinking Appeal/ Thinking Clan</h1>
 <br>In society, the main characteristic of a Thinking Club is research activity, but this is not entirely true.
 <br>In fact, the main characteristic of a Thinking Club is the potential for thinking. If representatives of another club are able to follow orders, then NT is constantly thinking for itself. 
 <br>Perhaps this is most evident in TW and TA, as they directly and consciously improve the clarity of world perception. They are characterized by all kinds of worries about possible... unrealizability. And if TW, although he may worry that he did not take into account some possibilities in his reasoning, on the whole technically has the opportunity to calm down and forget, then TA will endlessly bend the line about various possibilities and worry about the infidelity of his own thinking, so it is also flexible for them.
